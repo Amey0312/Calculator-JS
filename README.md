@@ -17,7 +17,7 @@ A simple and functional calculator application built using **HTML**, **CSS**, an
 ## Technologies Used
 
 - HTML5: For structuring the calculator interface.
-- **CSS3: For styling and ensuring a clean, responsive design.
+- CSS3: For styling and ensuring a clean, responsive design.
 - JavaScript (ES6): For implementing the calculator's logic and interactivity.
 
 
